@@ -190,29 +190,7 @@ public class BookCollections {
         return maxGenre;
     }
 
-    /*
 
-
-    public static void main(String[] args) {
-
-        Person p1 = new Person("Jan", "Nowak", 17);
-        Person p2 = new Person("Janina", "Nowak", 22);
-        Person p3 = new Person("John", "Doe", 30);
-
-        Book b1 = new Book("W pustyni i w puszczy", p1);
-        Book b2 = new Book(" Dupa", p2);
-        Book b3 = new Book(" Antek", p3);
-
-        List<Book> bo = new ArrayList<>();
-
-        bo.add(b1);
-        bo.add(b2);
-        bo.add(b3);
-
-        System.out.println();
-
-    }
-    */
 }
 
 
